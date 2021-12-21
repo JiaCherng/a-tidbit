@@ -1,0 +1,10 @@
+#yaml/yml stores an array of items
+#data file available using site.data.<file name>
+
+#that on github will require /bookimu/ , but is serve on local server, would only require /
+- name: Home
+  link: /
+- name: About
+  link: /about
+- name: Menu
+  link: /menu
