@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Tidbit On A Snippet
+title: A Tidbit Of Snippet
 email: brightnightsdarklights@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My two cents on my life
@@ -43,7 +43,7 @@ social:
 tagline: >
   My two cents on my life
 
-hero_img: posts/disney path.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpeg
+hero_img: posts/disney day.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpeg
 
 
 twitter_username: jio # replace with your_twitter_username or comment to remove link from footer
