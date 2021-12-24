@@ -2,7 +2,7 @@
 layout: post
 title: Medicine admission-we need to watch out
 featured-img: unimalaya
-categories: Education
+categories: Rant
 ---
 **Disclaimer**: This post is deeply personal and is of a completely different nature to the other objective. Read it with a pinch of salt and don't take it too seriously.
 
