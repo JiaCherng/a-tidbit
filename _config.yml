@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: What is happening by Jack
-email: brightnightsdarklights@example.com
+title: A tidbit on Life
+email: brightnightsdarklights@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My two cents on what is happening in the country
+  My two cents on my life
 #baseurl: "/bookimu/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -41,7 +41,7 @@ social:
     - https://github.com/benbalter
     - https://keybase.io/benbalter
 tagline: >
-  My two cents on what is happening in the country
+  My two cents on my life
 
 hero_img: posts/hero_lg.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpeg
 
