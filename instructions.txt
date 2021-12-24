@@ -4,7 +4,7 @@ jekyll serve --livereload
 -runs it on server (and build first)
 -livereload optional
 
-but add bundle exec to make sure running same jekyll version
+but add bundle exec (in front) to make sure running same jekyll version
 
 can write in html and md
 naming of posts have to follow a specific structure
