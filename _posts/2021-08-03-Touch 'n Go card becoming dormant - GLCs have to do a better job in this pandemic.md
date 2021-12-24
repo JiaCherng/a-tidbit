@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 至冬至
-featured-img: touchngo
+featured-img: dongzhi
 categories: Festivities
 ---
  
